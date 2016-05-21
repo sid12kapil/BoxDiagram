@@ -1,0 +1,28 @@
+#green{color:green; margin:343px; 
+
+	border:solid; clear:both; 
+	padding-bottom:10px;}
+
+.red{color:red; margin:15px; 
+	border:solid; padding:15px;}
+
+.yellow{color:yellow; margin:15px;
+border:solid; padding:10px; float:left;
+display:inline; height:271px;}
+
+.blue{color:blue; border:solid; margin-top:20px;
+float:center; display:inline-table;
+height:50px; padding:40px;}
+
+.gray{border:solid; color:gray; margin:30px; 
+padding:15px; padding-left:60px; width:90px;}
+
+.boxs{color:black; margin:10px; border:solid;
+display:inline-block; padding:30px;}
+
+.orange{color:orange; height:363px;
+padding:20px; border:solid; margin:10px;
+margin-bottom:60px; float:right;}
+
+.red2{color:red; margin:20px; border:solid;
+padding:15px; width:380px;}
